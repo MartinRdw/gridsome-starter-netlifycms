@@ -33,7 +33,7 @@
   query BlogPost ($path: String!) {
     blogPost (path: $path) {
       title
-      date (format: "DD MMMM YYYY")
+      date (formatString: "DD MMMM YYYY")
       content
     }
   }
