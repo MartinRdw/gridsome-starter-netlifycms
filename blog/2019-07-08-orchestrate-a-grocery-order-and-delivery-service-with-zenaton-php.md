@@ -1,6 +1,6 @@
 ---
 title: Orchestrate a Grocery Order and Delivery Service with Zenaton (php)
-date: 2019-07-08T01:26:49.313Z
+date: 2019-06-14 20:08:08 -0700
 slug: grocery-store-shopper-and-delivery-service
 ---
 Let’s build a “Grocery delivery service” where a customer orders their groceries online and schedules a delivery time. Then a grocery store team member uses an app to collect the grocery items and then a courier service delivers them to the customer.
